@@ -1,0 +1,1 @@
+This is a Youtube clone app to demonstrate and improve my skill to the next level. The skill I have learned while building this app will be listed here.
